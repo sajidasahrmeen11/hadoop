@@ -1,0 +1,7 @@
+user1,2023-10-01 10:00:00,login,
+user2,2023-10-01 10:01:00,view_page,/home
+user1,2023-10-01 10:02:00,view_page,/products
+user3,2023-10-01 10:03:00,login,
+user2,2023-10-01 10:04:00,view_page,/products
+user1,2023-10-01 10:05:00,logout,
+user3,2023-10-01 10:06:00,view_page,/about
